@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: Your name
-# @Date:   2021-10-25 17:30:31
-# @Last Modified by:   Your name
-# @Last Modified time: 2021-10-25 17:38:02
 #!/usr/bin/env python
 # -*- coding=utf8 -*-
 """
