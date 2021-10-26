@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python
+# -*- coding=utf8 -*-
 """
 # Author: qi.chen.1@ulaval.ca
 # Created Time : Sat May 15 16:54:57 2021
