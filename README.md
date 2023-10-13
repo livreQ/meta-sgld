@@ -1,7 +1,7 @@
 # Meta-SGLD
 
-This code repo contains implementation for Meta-SGLD algorithm presented in the NeurIPS 2021 paper
-*Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis* by Chen, Shui and Marchand.
+This code repo contains the implementation for the Meta-SGLD algorithm presented in the NeurIPS 2021 paper
+*Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis* by Chen, Shui, and Marchand.
 
 
 
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 The code was written to run in Python 3.6 or in a more recent version.
 
-## Run expierement on Synthetic data
+## Run experiment on Synthetic data
 
 ```
 python src/main/toy_exp/toy.py
